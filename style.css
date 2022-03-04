@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: red;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1{
+    font-family: sans-serif;
+    background-color: red;
+    text-align: center;
+}
+
+footer{
+    background-color: red;
+}
